@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Roda, Matias 
-- **Comisión:** M2025-9
+- **Nombre:** Roda. Matias 
+- **Comisión:** M2025-9 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
