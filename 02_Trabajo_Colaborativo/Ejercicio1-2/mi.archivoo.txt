@@ -1,0 +1,3 @@
+saludo=input("di tu saludo de bienvenida")
+
+print(f{saludo})
